@@ -5,3 +5,7 @@ you should made a copy
 and then, you should
 so, you must use
 double sign greather than
+linea1\linea2
+Prueba que genera conflictos
+
+Merge con conflictos, se obtuvo el archivo desde una ubicacion remota.
